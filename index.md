@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-### Chase's first CS193 Lab
+## Chase's first CS193 Lab
 
 - Alternate resource for CS seperate from 180
 - Taught by students
