@@ -3,8 +3,8 @@
 
 - Alternate resource for CS seperate from 180
 - Taught by students
-- Not too early
 - Smaller setting than a lecture
+- Not too early
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
